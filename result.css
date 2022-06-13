@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+#result
+{
+	display:none;
+	background-color: yellow;
+	width: 80%;
+	text-align: center;
+	border-radius: 20px;
+}
+
+.resultname{
+	font-size: 26px;
+}
+
+.resultDesc{
+	font-size: 22px;
+}
+
+.twitter{
+	color: white;
+	background-color: darkviolet;
+	font-size: 20px;
+	border: 0px;
+	border-radius: 20px;
+}
+
+.twitter:hover, .twitter:focus{
+	background-color: yellow;
+	color: deepskyblue;
+}
